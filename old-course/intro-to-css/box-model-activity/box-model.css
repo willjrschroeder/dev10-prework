@@ -1,0 +1,19 @@
+.block1, .block2 {
+    border: 3px solid #353f4f;
+    width: 300px;
+    box-sizing: border-box;
+}
+
+.block1 {
+    background-color: blue;
+    float: left;
+    padding: 30px;
+    margin: 5%;
+}
+
+.block2 {
+    background-color: red;
+    float: left;
+    padding: 50px;
+    margin: 30px;
+}
