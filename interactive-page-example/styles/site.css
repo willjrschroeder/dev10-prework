@@ -1,0 +1,7 @@
+input:focus {
+    background-color: yellow;
+}
+
+input {
+    border: 2px solid green;
+}
