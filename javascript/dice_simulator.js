@@ -108,3 +108,11 @@ console.log(result);
 result.forEach((value, key) => {
     console.log(`${key}: ${value}% of total occurences`); //Output the result, calculating percentages
 })
+
+// I should have implemented several smaller helper functions into my dice_roller function.
+// // I need to get better at making each function accomplish one thing.
+// // A helper function could have returned the rollSums.
+// // Another helper could have constructed finalResults.
+// I also did some hack and slash coding after I had to alter my original algorithm,
+// I need to get better at returning to the algorithm and fully updating it
+// before jumping back into coding things. This resulted in some convoluted code.
